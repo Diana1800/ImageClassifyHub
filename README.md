@@ -36,8 +36,11 @@ Upload an image and get the classification result.
 ⚙️ Customization
 
 Model Architecture: To use your own model modify models.py to define any custom architecture.
+
 Model data: Place your trained model checkpoint (BestModel.pt) in the root directory.
+
 Image Preprocessing: The image transformations can be customized to match the input format required by your model.
+
 Deployment: This app is currently a development server (Flask)
 
 💡 Contributing
