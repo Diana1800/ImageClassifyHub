@@ -111,7 +111,7 @@
             })
             .then(response => response.json())
             .then(data => {
-                document.getElementById('output').innerText = `Classification for pulmonary embolism : ${data.response}`;
+                document.getElementById('output').innerText = `Classification : ${data.response}`;
                 if (data.image_path) {
                     document.querySelector('.image-container').innerHTML = '<img src="' + data.image_path + '" alt="Uploaded Image">';
                 } else {
