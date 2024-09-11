@@ -1,6 +1,6 @@
 ## ImageClassifyHub
 
-🖼️ ImageClassifyHub is a simple, easy-to-use web application for image classification. It allows you to upload images and get classification results using a pre-trained deep learning model. You can seamlessly connect your own image classification models to the app and run predictions in real-time.
+🖼️  ImageClassifyHub is a simple, easy-to-use web application for image classification. It allows you to upload images and get classification results using a pre-trained deep learning model. You can seamlessly connect your own image classification models to the app and run predictions in real-time.
 Features
 
 Image Upload: Upload images from your local machine.
@@ -21,9 +21,11 @@ Pillow (for image handling)
 
 Clone the repository:
 
+
   git clone https://github.com/your-username/ImageClassifyHub.git
   
   cd ImageClassifyHub
+  
 
 Install the required Python packages
 
