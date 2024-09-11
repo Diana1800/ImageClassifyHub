@@ -10,6 +10,7 @@ Image Display: The uploaded image is displayed alongside the classification resu
 Customizable: Modify the app to fit any image size or preprocessing steps as per your model's needs.
 
 
+
 🛠️ Prerequisites
 
 Python 3.6+
@@ -17,6 +18,7 @@ PyTorch
 Flask
 Torchvision
 Pillow (for image handling)
+
 
 
 📦 Installation
@@ -35,6 +37,7 @@ Open your browser and go to: http://127.0.0.1:5000
 Upload an image and get the classification result.
 
 
+
 ⚙️ Customization
 
 Model Architecture: To use your own model modify models.py to define any custom architecture.
@@ -44,6 +47,7 @@ Model data: Place your trained model checkpoint (BestModel.pt) in the root direc
 Image Preprocessing: The image transformations can be customized to match the input format required by your model.
 
 Deployment: This app is currently a development server (Flask)
+
 
 
 💡 Contributing
