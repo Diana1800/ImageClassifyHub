@@ -21,9 +21,8 @@ Pillow (for image handling)
 
 Clone the repository:
 
-
-  git clone https://github.com/your-username/ImageClassifyHub.git
   
+  git clone https://github.com/your-username/ImageClassifyHub.git 
   cd ImageClassifyHub
   
 
