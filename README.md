@@ -46,6 +46,8 @@ Model data: Place your trained model checkpoint (BestModel.pt) in the root direc
 
 Image Preprocessing: The image transformations can be customized to match the input format required by your model.
 
+Classification: For multi-class classification, use torch.softmax()
+
 Deployment: This app is currently a development server (Flask)
 
 
