@@ -22,13 +22,9 @@ Pillow (for image handling)
 Clone the repository:
 
 
-    git clone https://github.com/diana1800/contextual-qna-bot.git
-    cd contextual-qna-bot
+    git clone https://github.com/diana1800/ImageClassifyHub.git
+    cd ImageClassifyHub
 
-  
-  git clone https://github.com/your-username/ImageClassifyHub.git 
-  cd ImageClassifyHub
-  
 
 Install the required Python packages
 
